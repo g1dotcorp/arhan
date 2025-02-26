@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-	float num;
-	printf("enter the num\n");
-	scanf("%f",&num);
-	if(num%2==0)
+	float a;
+	printf("enter the a\n");
+	scanf("%f",&a);
+	if(a:%2==0)
 	{
 		printf("even");
 	}
