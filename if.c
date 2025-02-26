@@ -6,7 +6,7 @@ int main()
 	scanf("%f",&a);
 	if(a:%2==0)
 	{
-		printf("even");
+		printf("the a is even");
 	}
 	else
 	{
